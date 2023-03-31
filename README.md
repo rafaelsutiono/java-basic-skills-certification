@@ -4,7 +4,7 @@
 ![HR](/HackerRank.jpg)
 <br>
 <h2>Great Learning Java Certificate</h2>
-![GL](/GL.jpg)
+![](GL.jpg)
 <br>
 <h2>Great Learning Java Quiz Results</h2>
 ![GLQ](/GLResults.jpg)
